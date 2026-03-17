@@ -70,7 +70,7 @@ We model the image as a **graph** and propagate labels using a **Graph Laplacian
 
 ## Tech Stack
 
-`Python` • `NumPy` • `SciPy` • `OpenCV` • `DenseCRF`
+`Python` • `NumPy` • `SciPy` • `OpenCV` • `DenseCRF` • `PyTorch`
 
 ---
 
